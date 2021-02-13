@@ -1,0 +1,1 @@
+<?php require('views/inscription.view.php');?>
