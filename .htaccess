@@ -1,0 +1,9 @@
+RewriteEngine on
+RewriteRule ^bamara$ index.php
+RewriteRule ^blog$ blog.php
+RewriteRule ^connexionn$ connexionn.php
+RewriteRule ^galerie$ galerie.php
+RewriteRule ^apropos$ apropos.php
+RewriteRule ^services$ services.php
+RewriteRule ^contact$ contact.php
+
